@@ -27,5 +27,4 @@ export const goTo = (path: string) => {
     inicioWindow()
   }
   
-  // Inicia el manejo de rutas
-  handleRoute(location.pathname);
+ 
